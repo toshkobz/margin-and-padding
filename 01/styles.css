@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.div-one {
+    background-color: pink;
+    border: 4px blue solid;
+    margin: 12px;
+    padding: 30px;
+
+}
+
+.div-two {
+    background-color: lightblue;
+    border: 3px purple solid;
+    margin-bottom: 48px;
+
+}
+
+.div-three {
+    background-color: goldenrod;
+    border: 4px red solid;
+    padding: 30px;
+    width: 300px;
+    margin-left: 300px;
+}
